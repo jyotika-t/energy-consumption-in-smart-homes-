@@ -1,0 +1,2 @@
+Energy Consumption in Smart Homes
+Developed a smart home backend service in Python using Flask to calculate dynamic household energy usage based on user-defined parameters. Implemented helper modules for mobility profiling, comfort factor adjustments, and data compression. Containerized the entire system with Docker for portability, created an Ansible playbook for automated server setup, and set up a GitHub Actions CI/CD pipeline for testing and building. Designed the API to be easily tested with curl and Postman, ready for real-world deployment on AWS or local servers.
